@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="tv">
+  <channel id="bbb.24">
+    <display-name lang="br">BBB 24</display-name>
+  </channel>
+  <programme start="20240101000001 +0000" stop="20240417086399 +0000" channel="sportv.br">
+    <title lang="pt">BBB 24</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil</desc>
+    <icon src="" />
+  </programme>
+ </tv>
