@@ -1,11 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="tv">
-  <channel id="bbb.24">
-    <display-name lang="br">BBB 24</display-name>
+  <channel id="bbb24main.br">
+    <display-name lang="es">BBB 2024 BR</display-name>
+    <icon src="http://static.epgguide.net/icon/bbb24main.br.png" />
   </channel>
-  <programme start="20240101000001 +0000" stop="20240417086399 +0000" channel="sportv.br">
-    <title lang="pt">BBB 24</title>
-    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil</desc>
-    <icon src="" />
+  <programme start="20240311010000 +0000" stop="20240311050000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
   </programme>
- </tv>
+  <programme start="20240311050000 +0000" stop="20240311090000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240311090000 +0000" stop="20240311130000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240311130000 +0000" stop="20240311170000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240311170000 +0000" stop="20240311210000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240311210000 +0000" stop="20240312010000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240312010000 +0000" stop="20240312050000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240312050000 +0000" stop="20240312090000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240312090000 +0000" stop="20240312130000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240312130000 +0000" stop="20240312170000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240312170000 +0000" stop="20240312210000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240312210000 +0000" stop="20240313010000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240313010000 +0000" stop="20240313050000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240313050000 +0000" stop="20240313090000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240313090000 +0000" stop="20240313130000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240313130000 +0000" stop="20240313170000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240313170000 +0000" stop="20240313210000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240313210000 +0000" stop="20240314010000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240314010000 +0000" stop="20240314050000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240314050000 +0000" stop="20240314090000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240314090000 +0000" stop="20240314130000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240314130000 +0000" stop="20240314210000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240314210000 +0000" stop="20240315010000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240315010000 +0000" stop="20240315050000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240315050000 +0000" stop="20240315090000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240315090000 +0000" stop="20240315130000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240315130000 +0000" stop="20240315170000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240315170000 +0000" stop="20240315210000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240315210000 +0000" stop="20240316010000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240316010000 +0000" stop="20240316050000 +0000" channel="bbb24main.br">
+    <title lang="pt">BBB 2024</title>
+    <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  </tv>
