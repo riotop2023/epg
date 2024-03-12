@@ -9,7 +9,7 @@
     <icon src="http://static.epgguide.net/icon/jogosdodia.br.png" />
   </channel>
    <channel id="jogosemdestaque.br">
-    <display-name lang="es">JOGOS DO DIA BR</display-name>
+    <display-name lang="es">JOGOS EM DESTAQUE BR</display-name>
     <icon src="http://static.epgguide.net/icon/jogosdodia.br.png" />
   </channel>
   <programme start="20240101000001 +0000" stop="20240417086399 +0000" channel="bbb24main.br">
