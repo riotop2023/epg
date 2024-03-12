@@ -4,9 +4,27 @@
     <display-name lang="es">BBB 2024 BR</display-name>
     <icon src="http://static.epgguide.net/icon/bbb24main.br.png" />
   </channel>
+    <channel id="jogosdodia.br">
+    <display-name lang="es">JOGOS DO DIA BR</display-name>
+    <icon src="http://static.epgguide.net/icon/jogosdodia.br.png" />
+  </channel>
+   <channel id="jogosemdestaque.br">
+    <display-name lang="es">JOGOS DO DIA BR</display-name>
+    <icon src="http://static.epgguide.net/icon/jogosdodia.br.png" />
+  </channel>
   <programme start="20240101000001 +0000" stop="20240417086399 +0000" channel="bbb24main.br">
     <title lang="pt">BBB 2024</title>
     <desc lang="pt">Acompanhe a casa mais vigiada do Brasil!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+  <programme start="20240101000001 +0000" stop="20240417086399 +0000" channel="jogosdodia.br">
+    <title lang="pt">JOGOS DO DIA</title>
+    <desc lang="pt">Saiba onde assistir os jogos do dia!.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
+  </programme>
+    <programme start="20240101000001 +0000" stop="20240417086399 +0000" channel="jogosemdestaque.br">
+    <title lang="pt">JOGOS EM DESTAQUE</title>
+    <desc lang="pt">Assista os jogos em destaque de forma rápida e prática!.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg" />
   </programme>
     </tv>
